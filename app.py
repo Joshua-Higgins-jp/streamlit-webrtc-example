@@ -2,7 +2,7 @@
 This model and code are based on
 https://github.com/robmarkcole/object-detection-app
 """
-
+# get this bad boy going!
 import logging
 import queue
 from pathlib import Path
